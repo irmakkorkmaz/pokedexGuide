@@ -11,4 +11,3 @@ I placed a search input, I made it as a button in the google search, when we wan
 I did it using Fetch API & Async, Await operations.
 
 ![](pokemons.gif)
-![](poke-code.gif)
